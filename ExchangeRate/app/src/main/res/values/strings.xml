@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exchange Rate</string>
+
+    <!-- Dialog Info start-->
+    <string name="di_error">Помилка</string>
+    <string name="di_ok">OK</string>
+    <!-- Dialog Info end-->
+
+    <!-- Activity Main start-->
+    <string name="am_error_no_exchange_rate">За даний період немає курсу валют!</string>
+    <string name="am_error_unknown_error">Невідома помилка!</string>
+    <!-- Activity Main-->
+</resources>
